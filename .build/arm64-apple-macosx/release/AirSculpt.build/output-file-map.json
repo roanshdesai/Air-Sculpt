@@ -1,0 +1,115 @@
+{
+  "": {
+    "dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/AirSculpt.d",
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/AirSculpt.o",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/primary.swiftdeps"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/AirSculptApp.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/AirSculptApp.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/AirSculptApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/AirSculptApp.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/AirSculptApp.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/AppModel.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/AppModel.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/AppModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/AppModel.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/AppModel.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/Camera/CameraManager.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraManager.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraManager.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraManager.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/CameraViewMapper.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraViewMapper.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraViewMapper~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraViewMapper.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraViewMapper.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/Gestures/GestureEvent.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureEvent.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureEvent.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureEvent.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/Gestures/GestureState.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureState.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureState~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureState.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureState.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/Gestures/GestureStateMachine.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureStateMachine.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureStateMachine~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureStateMachine.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GestureStateMachine.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/Scene/SceneController.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/SceneController.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/SceneController~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/SceneController.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/SceneController.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/Tracking/HandFrame.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandFrame.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandFrame~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandFrame.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandFrame.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/Tracking/HandJoint.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandJoint.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandJoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandJoint.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandJoint.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/Tracking/HandTracker.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandTracker.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandTracker~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandTracker.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HandTracker.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/Tracking/OneEuroFilter.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/OneEuroFilter.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/OneEuroFilter~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/OneEuroFilter.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/OneEuroFilter.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/UI/CameraPreviewView.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraPreviewView.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraPreviewView~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraPreviewView.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/CameraPreviewView.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/UI/ContentView.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/ContentView.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/ContentView.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/UI/GizmoView.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GizmoView.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GizmoView~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GizmoView.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/GizmoView.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/UI/HUDView.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HUDView.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HUDView~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HUDView.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/HUDView.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/UI/LandmarkOverlayView.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/LandmarkOverlayView.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/LandmarkOverlayView~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/LandmarkOverlayView.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/LandmarkOverlayView.dia"
+  },
+  "/Users/roanshdesai/AirSculpt/Sources/AirSculpt/UI/SculptureSceneView.swift": {
+    "object": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/SculptureSceneView.swift.o",
+    "swiftmodule": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/SculptureSceneView~partial.swiftmodule",
+    "swift-dependencies": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/SculptureSceneView.swiftdeps",
+    "diagnostics": "/Users/roanshdesai/AirSculpt/.build/arm64-apple-macosx/release/AirSculpt.build/SculptureSceneView.dia"
+  }
+}
